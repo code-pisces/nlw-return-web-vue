@@ -1,4 +1,13 @@
-# nlw-return-web
+# NLW RETURN WEB
+
+Projeto FrontEnd construído durante a NLW Return, com a diferença (vantagem) de estar escrito em Vue.
+
+---
+
+# Techs Usadas
+- Vue.JS
+- Tailwind
+- HeadlessUI
 
 ## Project setup
 ```
@@ -19,6 +28,4 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<p align="center">Construído por Gustavo Amorim (Aquele que vai mudar o mundo).</p>
